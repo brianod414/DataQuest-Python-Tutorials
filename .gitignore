@@ -1,0 +1,5 @@
+*.csv
+/Machine Learning/Machine Learning Projects/Uncompleted
+*.xlsx
+*.docx
+.DS_Store
