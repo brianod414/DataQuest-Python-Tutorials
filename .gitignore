@@ -3,3 +3,8 @@
 *.xlsx
 *.docx
 .DS_Store
+/Data Cleaning/Data Cleaning Projects/.ipynb_checkpoints
+/Data Cleaning/Data Cleaning Projects/employee_exit_survey
+/Data Cleaning/Data Cleaning Projects/nyc_high_school
+/Data Cleaning/Data Cleaning Projects/star_wars_survey
+
